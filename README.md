@@ -1,0 +1,1 @@
+# openfeign-rpc-example
