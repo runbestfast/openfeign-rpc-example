@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: openfeign-service-sample
+    cluster:
+  profiles:
+    active: UAT
